@@ -1,5 +1,39 @@
-d 'DEA': Data envelopment analysis
+d 'lclogit': Enhanced module to estimate Latent-class logit model via expectation-maximization algorithm and EM algorithm Use lclogit And lclogit2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f eq_g.hlp
+f fmlogit_pr.ado
+f gllam_ll.ado
+f gllamm.ado
+f gllamm.hlp
+f gllapred.ado
+f gllapred.hlp
+f gllarob.ado
+f gllas_yu.ado
+f gllasim.ado
+f gllasim.hlp
+f lclogit.ado
+f lclogit.sthlp
+f lclogit.toc
+f lclogit2.ado
+f lclogit2.sthlp
+f lclogit2_clogit_gf0.mata
+f lclogit2_clogit_gf0.mo
+f lclogit2_postestimation.sthlp
+f lclogit_postestimation.sthlp
+f lclogitcov.ado
+f lclogitcov.sthlp
+f lclogitcov2.ado
+f lclogitcov2.sthlp
+f lclogitml.ado
+f lclogitml.sthlp
+f lclogitml2.ado
+f lclogitml2.sthlp
+f lclogitml2_gf0.mata
+f lclogitml2_gf0.mo
+f lclogitpr.ado
+f lclogitpr.sthlp
+f lclogitpr2.ado
+f lclogitpr2.sthlp
+f lclogitwtp2.ado
+f lclogitwtp2.sthlp
+f remcor.ado
